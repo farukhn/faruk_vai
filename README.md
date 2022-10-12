@@ -1,3 +1,24 @@
+# Website Name
+
+- Quize Hub
+
+## Live Site Link
+
+- Live is the live site link of Quize Hub: https://quize-hub.netlify.app
+
+
+### About the website,
+- It is live quize practice site.
+- You can here practice javascript, React, git, CSS.
+- You develop your skill here.
+- In this website we desgined 4 category in future we will add more category.
+- Here you will show a chart which will show you the amount of quizes.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
